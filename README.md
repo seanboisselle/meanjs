@@ -1,2 +1,4 @@
-# meanjs
-mean.js app
+# MEAN.js
+MEAN.js app
+
+This is a repo of MEAN.js
